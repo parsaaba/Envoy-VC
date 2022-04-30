@@ -66,4 +66,4 @@ jobs:
           git checkout output 2>/dev/null || git checkout --orphan output && git rm -rf . && git checkout main -- generated/
           # "echo" returns true so the build succeeds, even if no changed files
           git commit -m 'Update generated files' || echo
-          git push origin output -f
+          git push origin master -f
