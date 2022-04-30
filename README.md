@@ -319,8 +319,8 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 📊 Github Stats
   
-![Stats Overview](https://raw.githubusercontent.com/Envoy-VC/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Envoy-VC/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/generated/languages.svg)
 
 <br>
 
