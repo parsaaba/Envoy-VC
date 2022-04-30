@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
+- 🥅 2022 Goals: Learn more about Blockchains and Solidity
 - ⚡ Fun fact: I love to play games
 <br>
 ----
@@ -258,9 +258,44 @@ const vedant = {
 ---
 
 <br>
+
+## 🌸 Latest Tweets
+
+<br>
+
+<p><a href="https://www.twitter.com/Envoy_1084"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=Envoy_1084&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
+<br>
+
+---
+
+<br>
+
+## 🔥 Streak stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Envoy-VC)](https://git.io/streak-stats)
+
+<br>
+
+---
+
+<br>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Envoy_'s Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Envoy-VC&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<br>
+
+---
+
 <br>
 
 ## 📊 Weekly Development Breakdown
+
+<br>
+
+---
+
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -282,11 +317,11 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 <br>
 
 
-## Github Stats
-<br>
-
-![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=envoy-vc&show_icons=true&theme=dark)
-
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Envoy-VC/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Envoy-VC/github-stats-transparent/output/generated/languages.svg)
 <br>
 
 ----
