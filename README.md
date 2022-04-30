@@ -328,15 +328,6 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
-
-<br>
-<br>
-
-----
-
-<br>
-
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
@@ -351,10 +342,7 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 </details>
 
 <br>
-<br>
 
 ----
 
 <br>
-
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
