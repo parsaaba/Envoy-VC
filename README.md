@@ -146,6 +146,14 @@ const vedant = {
 
 <br>
 
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
+
+---
+
+<br>
+<br>
 
 ## 📊 Weekly Development Breakdown
 
